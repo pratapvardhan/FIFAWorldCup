@@ -1,6 +1,6 @@
 # FIFA World Cup
 
-- [Script](http://nbviewer.ipython.org/github/pratapvardhan/FIFAWorldCup/blob/master/fifa-wc-squads.ipynb?create=1) to scrape every world cup's qualified teams squads from [Wikipedia](http://en.wikipedia.org/)
+- [Script](http://nbviewer.ipython.org/github/pratapvardhan/FIFAWorldCup/blob/master/fifa-wc-squads.ipynb?create=1) to scrape every world cup's qualified team's squad data from [Wikipedia](http://en.wikipedia.org/)
 
 # Data
 
